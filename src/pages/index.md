@@ -9,7 +9,9 @@ mainpitch:
     Nothing to  see here ;)
 description: Asatoma satgamaya..!!
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/sky-space-milky-way-stars-110854.jpg
+      text: Blurb 1
   heading: '1'
   description: q
 main:
